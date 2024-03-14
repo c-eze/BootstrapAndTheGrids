@@ -28,4 +28,5 @@ body > main {
 }
 .minHeight{
     min-height: 80vh;
+    margin-top: 3em;
 }
